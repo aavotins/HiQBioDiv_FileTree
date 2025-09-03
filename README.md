@@ -1,2 +1,2 @@
 # HiQBioDiv_FileTree
-Template directory for file tree structure, used in project HiQBioDiv
+This is the template directory for the file tree structure used in the HiQBioDiv project.
